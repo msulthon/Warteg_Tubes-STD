@@ -2,11 +2,14 @@
 
 
 
-void createListParent(List_Parent &L);
-address_parent CreateElmParent(infotypeParent in);
-void insertFirstParent(List_Parent &L, address_parent P);
-void insertAfterParent(List_Parent &L, address_parent Prec, address_parent P);
-void insertLastParent(List_Parent &L, address_parent P);
+void createListParent(List_Parent &L){
+}
+address_parent CreateElmParent(infotypeParent in){
+}
+void insertFirstParent(List_Parent &L, address_parent P){}
+void insertAfterParent(List_Parent &L, address_parent Prec, address_parent P){}
+void insertLastParent(List_Parent &L, address_parent P){
+}
 
 
 void insertSortedParent(List_parent &L, infotypeParent X);
